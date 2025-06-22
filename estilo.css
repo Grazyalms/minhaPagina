@@ -1,0 +1,31 @@
+body{
+    background-color:lightgreen ;
+}
+h1{
+    text-align: center;
+    color: indigo;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.meusHobbies li{
+    margin-bottom: 12px;
+}
+
+img{
+    border-radius: 20px;
+}
+
+table{
+    border: 10px;
+    border-collapse: collapse;
+    font-style:oblique ;
+}
+
+a:hover{
+    color:antiquewhite
+    
+}
